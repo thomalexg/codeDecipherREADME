@@ -2,7 +2,7 @@
 Info for the app CodeDecipher
 
 
-Support: codecrackerapp@gamil.com
+Support: codecrackerapp@gmail.com
 
 Privacy Policy:
 Last updated: 07.07.2024
@@ -35,4 +35,4 @@ We reserve the right to update or change our Privacy Policy at any time. Any cha
 
 Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at codecrackerapp@gamil.com
+If you have any questions about this Privacy Policy, please contact us at codecrackerapp@gmail.com
