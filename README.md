@@ -5,7 +5,7 @@ Info for the app CodeDecipher
 Support: codecrackerapp@gamil.com
 
 Privacy Policy:
-Last updated: [Date]
+Last updated: 07.07.2024
 
 CodeDecipher does not collect, store, or share any personal information or data from its users.
 
